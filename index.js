@@ -10,6 +10,8 @@ import cookieParser from "cookie-parser";
 import cors from "cors";
 import path from "path";
 
+const __dirname = path.dirname(new URL(import.meta.url).pathname);
+
 
 const app = express();
 dotenv.config();
