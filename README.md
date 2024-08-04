@@ -23,12 +23,20 @@ Or watch the demo [here.](https://videoplayer-9bb8.onrender.com)
 - Responsive design for mobile and desktop.
 - And much more...
 
-## Technologies Used
+## Technologies Used for frontend (ReactJS)
 
 - **React-Redux**: Manage React Stack manage.
 - **Firebase Storage**: Cloud storage for video uploads.
 - **JSON Web Tokens (JWT)**: For user authentication.
 - **React Icons & MUI**: For icons.
+
+## Technologies Used for Backend (NodeJS)
+
+- **M**ongoDB: Database for storing user data and video metadata.
+- **E**xpress.js: Server framework for handling API requests.
+- **N**ode.js: JavaScript runtime for the server.
+- **Firebase Storage**: Cloud storage for video uploads.
+- **JSON Web Tokens (JWT)**: For user authentication.
 
 
 <img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/dashboard.png" width="400"> <img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/sign-in.png" width="400"><img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/firebase.png" width="400"><img src="https://github.com/anupmaurya1994/watchingVideo.ReactJS/blob/main/src/img/uplaod.png" width="400">
